@@ -7,19 +7,60 @@
 ## Índice
 
 ### Introducción
+
+Visión general de JavaScript: lenguaje dinámico, interpretado y esencial para la web moderna, tanto en frontend como backend.
+
 ### Variables
+
+Cómo declarar, inicializar y gestionar datos en memoria con var, let y const, y sus diferencias de alcance.
+
 ### Strings - Cadenas de texto
+
+Manipulación de texto con comillas y template literals, más métodos útiles para procesar y transformar cadenas.
+
 ### Números
+
+Tipos numéricos en JS (Number, BigInt), operaciones comunes, problemas de precisión y funciones matemáticas.
+
 ### Operadores
+
+Uso de operadores aritméticos, lógicos, de comparación, asignación y nuevas formas como ?? y ?..
+
 ### Booleans (Booleanos) y truthy/falsy
+
+Valores lógicos, conversión implícita, evaluación condicional y qué valores son considerados falsy en JavaScript.
+
 ### Objetos
-### Arrays Arreglos
+
+Estructuras clave para modelar entidades con pares clave-valor, métodos, herencia prototípica y clases ES6.
+
+### Arrays (Arreglos)
+
+Colecciones ordenadas de datos, formas de manipulación, desestructuración y su rol central en la programación JS.
+
 ### Funciones
+
+Bloques de código reutilizables, declaración vs expresión, arrow functions, parámetros y el concepto de closures.
+
 ### Estructuras de control
+
+Herramientas para el flujo del programa: condicionales, bucles, manejo de errores y decisiones múltiples.
+
 ### Iteradores y protocolos de iteración
+
+Cómo recorrer colecciones con for...of, generadores y la implementación del protocolo iterable en objetos.
+
 ### Array methods - métodos de arreglo
+
+Funciones integradas como map, filter, reduce y más, para transformar, filtrar y trabajar con colecciones.
+
 ### DOM - Document Object Model
+
+Interfaz que conecta JS con HTML, permitiendo seleccionar, crear, modificar y eliminar elementos de la página.
+
 ### Eventos
+
+Sistema de interacción con el usuario: clicks, teclado, formularios y delegación de eventos para eficiencia.
 
 ---
 
