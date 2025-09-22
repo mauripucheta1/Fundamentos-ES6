@@ -1,32 +1,32 @@
-const numeroUno = 10;
-const numeroDos = 20;
+const numeroTres = 10;
+const numeroCuatro = 20;
 
 // Suma
-const resultadoSuma = numeroUno + numeroDos;
+const resultadoSuma = numeroTres + numeroCuatro;
 console.log('Resultado suma: ', resultadoSuma);
 
 // Resta
-const resultadoResta = numeroDos - numeroUno;
+const resultadoResta = numeroCuatro - numeroTres;
 console.log('Resultado resta: ', resultadoResta);
 
 // División
-const resultadoDivision = numeroDos / numeroUno;
+const resultadoDivision = numeroCuatro / numeroTres;
 console.log('Resultado división: ', resultadoDivision);
 
 // Multiplicación
-const resultadoMultiplicación = numeroDos * numeroUno;
+const resultadoMultiplicación = numeroCuatro * numeroTres;
 console.log('Resultado multiplicación: ', resultadoMultiplicación);
 
 // Módulo
-const resultadoModulo = numeroUno % 2;
+const resultadoModulo = numeroTres % 2;
 console.log('Resultado módulo: ', resultadoModulo);
 
 // Potencia
-const resultadoPotencia = numeroDos ** 2;
+const resultadoPotencia = numeroCuatro ** 2;
 console.log('Resultado potencia: ', resultadoPotencia);
 
 // Concatenación
-const resultadoFinal = (numeroDos + numeroUno) / 2 + (numeroUno * 3) - numeroDos;
+const resultadoFinal = (numeroCuatro + numeroTres) / 2 + (numeroTres * 3) - numeroCuatro;
 console.log('Resultado final: ', resultadoFinal);
 
 // Aclaraciones: Estas son las diferentes formas de realizar operaciones aritméticas de forma aislada o concatenadas.
